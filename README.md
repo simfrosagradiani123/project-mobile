@@ -4,7 +4,7 @@
 Coffee App
 
 ## Tampilan Aplikasi
-![Halaman Aplikasi](assets/readme.jpg)
+![Halaman Aplikasi](readme.png)
 
 ## Cara Menjalankan
 1. Clone repository ini.
